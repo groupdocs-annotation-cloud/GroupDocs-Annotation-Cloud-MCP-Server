@@ -1,0 +1,3 @@
+mcp
+groupdocs-annotation-cloud
+pydantic
